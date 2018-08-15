@@ -25,6 +25,7 @@ event_summary:
       description: "Industry Leaders"
 
 event_about:
+    bg: "/assets/img/events/event/event-about-bg.svg"
     title: "About the Event"
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget tempor magna. Vivamus in lectus at neque tristique lobortis. Morbi porttitor, purus ut faucibus venenatis, diam risus lobortis augue, eget gravida nisl elit eget ipsum. Donec viverra vestibulum felis, sed consectetur justo rhoncus a."
     countdown: "10/25/2018 00:00:00 AM"
